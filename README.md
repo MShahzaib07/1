@@ -1,5 +1,9 @@
 # Warzone-2-Hack-ESP-UnlockALL
 
+Если еще хоть раз будет удален мой пост или сменена ссылка,я включаю авто репортер и удали посты, так как у меня есть доступ ко всем накрученным аккаунтам
+
+If at least once my post is deleted or the link is changed, I turn on the auto reporter and delete the posts, since I have access to all the twisted accounts
+
 # IMPORTANT 
 
 # Be sure to create an account on GitHub before launching the cheat 
